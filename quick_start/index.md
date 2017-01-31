@@ -54,7 +54,7 @@ You can easily create navigation map with the following steps.
 ## Steps
 1.	Choose target area and navigation routes in your site ([Sec. 2](map.md#add_area))
 2.	Distribute beacons around the routes ([Sec. 3](beacon.md#beacon_placement), [Sec. 4](beacon.md_2d#beacon_placement))
-3.	Prepare **fingerprinting** ([*1](#footnote1)) data for localization ([Sec. 3](beacon.md#fingerprinting), [Sec. 4](beacon.md_2d#fingerprinting))
+3.	Prepare **fingerprinting** ([*1](#footnote1)) data for localization ([Sec. 3](beacon.md#fingerprinting), [Sec. 4](beacon_2d.md#fingerprinting))
 4.	Build map data for the app ([Sec. 2](map.md#export_map))
 5.	Test the app with your map ([Sec. 5](test.md))
 6.	Submit the map data for public use ([Sec. 5](test.md#submit_map))
